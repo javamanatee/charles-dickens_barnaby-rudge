@@ -28,7 +28,14 @@
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Barnaby Rudge</dc:title>
+		<meta property="title-type" refines="#title">main</meta>
+		<dc:title id="subtitle">A Tale of the Riots of ’Eighty</dc:title>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
+		<meta property="file-as" refines="#subtitle">A Tale of the Riots of ’Eighty</meta>
 		<meta property="file-as" refines="#title">Barnaby Rudge</meta>
+		<dc:title id="fulltitle">Barnaby Rudge: A Tale of the Riots of ’Eighty</dc:title>
+		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="file-as" refines="#fulltitle">Barnaby Rudge: A Tale of the Riots of ’Eighty</meta>
 		<dc:subject id="subject-1">Historical fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCHS</meta>
 		<meta property="term" refines="#subject-1">sh85061165</meta>
@@ -50,29 +57,30 @@
 		<dc:subject id="subject-7">Locksmiths -- Fiction</dc:subject>
 		<meta property="authority" refines="#subject-7">LCHS</meta>
 		<meta property="term" refines="#subject-7">sh2010100119</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">A simple-minded young man and his pet raven are swept up in the anti-Catholic Gordon Riots of 1780 in Dickens’ first historical novel, a tale of mob violence, hidden identities, and the corrupting power of fanaticism.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;i&gt;Barnaby Rudge&lt;/i&gt; opens in the English village of Chigwell in 1775, where an unsolved double murder casts a long shadow over the local community and in particular Barnaby Rudge, the son of the missing steward suspected of the killing. Five years later, London is consumed by the Gordon Riots of 1780, when Lord George Gordon led the Protestant Association in a protest against increased rights for Catholics that descended into days of mob violence: Catholic churches and homes burned, and attacks on Newgate Prison the Bank of England. Into this maelstrom wanders Barnaby Rudge himself, a guileless young man with an intellectual disability, recognisable across the countryside by his eccentric dress and by Grip, the raven who rides on his shoulder. Easily led and hungry for excitement, Barnaby is drawn into the riots, marching under a banner he does not understand towards consequences he cannot foresee.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/charles-dickens"&gt;Charles Dickens&lt;/a&gt; uses the riots to explore what happens when private resentments are given public sanction. The most ideologically passionate figures in the novel are revealed as cynical manipulators, and the violence provides cover for characters pursuing entirely personal vendettas. The novel is also peopled with memorable figures from quieter walks of life: among them Dolly Varden, the locksmith’s daughter, whose charm and vivacity have made her one of the most celebrated characters Dickens ever created. Her father Gabriel provides the novel’s moral centre, a figure of stubborn decency who refuses to be bent by either domestic bullying or mob coercion, and whose integrity throws the surrounding corruption into sharp relief.&lt;/p&gt;
+			&lt;p&gt;Barnaby Rudge was the fifth of Dickens’s novels and his first venture into historical fiction, a form he returned to only once more with A Tale of Two Cities in 1859. It has long been among his less-read works, though the Dickens biographer Peter Ackroyd described it as one of his most neglected and most rewarding. The character of Grip the raven notably inspired Edgar Allan Poe to write “The Raven” after reviewing the novel in 1841.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/917</dc:source>
-		<dc:source>PAGE_SCANS_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/barnabyrudge00dickrich</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Barnaby_Rudge</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/charles-dickens_barnaby-rudge</meta>
 		<dc:creator id="author">Charles Dickens</dc:creator>
 		<meta property="file-as" refines="#author">Dickens, Charles</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Charles_Dickens</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/no2012115982</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST_NAME</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
+		<dc:contributor id="artist">William Powell Frith</dc:contributor>
+		<meta property="file-as" refines="#artist">Frith, William Powell</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/William_Powell_Frith</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">	https://lccn.loc.gov/nr89014511</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Donald Lainson</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Lainson, Donald</meta>
@@ -81,9 +89,8 @@
 		<meta property="file-as" refines="#transcriber-2">Widger, David</meta>
 		<meta property="se:url.authority.nacoaf" refines="#transcriber-2">http://id.loc.gov/authorities/names/no2011017869</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER_NAME</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Stephen Fenwick</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Fenwick, Stephen</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
