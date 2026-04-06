@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/charles-dickens/barnaby-rudge</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-04-06T19:31:56Z</dc:date>
+		<meta property="dcterms:modified">2026-04-06T19:31:56Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -60,15 +60,15 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A simple-minded young man and his pet raven are swept up in the anti-Catholic Gordon Riots of 1780.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;Barnaby Rudge&lt;/i&gt; opens in the English village of Chigwell in 1775, where an unsolved double murder casts a long shadow over the local community and in particular Barnaby Rudge, the son of one of the victims. Five years later, London is consumed by the Gordon Riots of 1780, when Lord George Gordon led the Protestant Association in a protest against increased rights for Catholics that descended into days of mob violence: Catholic churches and homes burned, and attacks on Newgate Prison the Bank of England. Into this maelstrom wanders Barnaby Rudge himself, a guileless young man with an intellectual disability, recognisable across the countryside by his eccentric dress and by Grip, the raven who rides on his shoulder. Easily led and hungry for excitement, Barnaby is drawn into the riots, marching under a banner he does not understand towards consequences he cannot foresee.&lt;/p&gt;
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/charles-dickens"&gt;Charles Dickens&lt;/a&gt; uses the riots to explore what happens when private resentments are given public sanction. The most ideologically passionate figures in the novel are revealed as cynical manipulators, and the violence provides cover for characters pursuing entirely personal vendettas. The novel is also peopled with memorable figures from quieter walks of life: among them Dolly Varden, the locksmith’s daughter, whose charm and vivacity have made her one of the most celebrated characters Dickens ever created. Her father Gabriel provides the novel’s moral centre, a figure of stubborn decency who refuses to be bent by either domestic bullying or mob coercion, and whose integrity throws the surrounding corruption into sharp relief.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;Barnaby Rudge&lt;/i&gt; was the fifth of Dickens’s novels and his first venture into historical fiction, a form he returned to only once more with &lt;a href="https://standardebooks.org/ebooks/charles-dickens/a-tale-of-two-cities"&gt;&lt;i&gt;A Tale of Two Cities&lt;/i&gt;&lt;/a&gt; in 1859. It has long been among his less-read works, though the Dickens biographer Peter Ackroyd described it as one of his most neglected and most rewarding. The character of Grip the raven notably inspired &lt;a href="https://standardebooks.org/ebooks/edgar-allan-poe"&gt;Edgar Allan Poe&lt;/a&gt; to write “The Raven” after reviewing the novel in 1841.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Barnaby Rudge&lt;/i&gt; opens in the English village of Chigwell in 1775, where an unsolved double murder casts a long shadow over the local community, and in particular Barnaby Rudge, the son of one of the victims. Five years later, London is consumed by the Gordon Riots of 1780, when Lord George Gordon led the Protestant Association in a protest against increased rights for Catholics that descended into days of mob violence. Into this maelstrom wanders Barnaby, a guileless young man with an intellectual disability, recognized across the countryside by his eccentric dress and by Grip, the raven riding on his shoulder. Easily led and hungry for excitement, Barnaby is drawn into the riots, marching under a banner he doesn’t understand towards consequences he can’t foresee.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/charles-dickens"&gt;Dickens&lt;/a&gt; uses the riots to explore what happens when private resentments are given public sanction. The most ideologically passionate figures are revealed to be cynical manipulators, and the violence provides cover for characters pursuing entirely personal vendettas. The novel is also peopled with memorable figures from quieter walks of life, like Dolly Varden, the locksmith’s daughter, whose charm and vivacity have made her one of the most celebrated characters Dickens ever wrote. Her father Gabriel provides the novel’s moral center, a figure of stubborn decency who refuses to be bent by either domestic bullying or mob coercion, and whose integrity throws the surrounding corruption into sharp relief.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Barnaby Rudge&lt;/i&gt; was the fifth of Dickens’s novels and his first venture into historical fiction, a form he returned to only once more in &lt;a href="https://standardebooks.org/ebooks/charles-dickens/a-tale-of-two-cities"&gt;&lt;i&gt;A Tale of Two Cities&lt;/i&gt;&lt;/a&gt;. It has long been among his less-read works, though Dickens biographer Peter Ackroyd describes it as one of his most rewarding. The character of Grip the raven notably inspired &lt;a href="https://standardebooks.org/ebooks/edgar-allan-poe"&gt;Edgar Allan Poe&lt;/a&gt; to write “The Raven” after reviewing the novel in 1841.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/917</dc:source>
 		<dc:source>https://archive.org/details/barnabyrudge00dickrich</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">255379</meta>
+		<meta property="se:reading-ease.flesch">67.28</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Barnaby_Rudge</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/charles-dickens_barnaby-rudge</meta>
 		<dc:creator id="author">Charles Dickens</dc:creator>
@@ -97,6 +97,11 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">David Reimer</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Reimer, David</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://github.com/dajare</meta>
+		<meta property="se:url.authority.nacoaf" refines="#producer-2">http://id.loc.gov/authorities/names/n92075987</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
