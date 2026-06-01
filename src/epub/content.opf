@@ -37,25 +37,25 @@
 		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<meta property="file-as" refines="#fulltitle">Barnaby Rudge</meta>
 		<dc:subject id="subject-1">Historical fiction</dc:subject>
-		<meta property="authority" refines="#subject-1">LCHS</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85061165</meta>
 		<dc:subject id="subject-2">Gordon Riots, 1780 -- Fiction</dc:subject>
-		<meta property="authority" refines="#subject-2">LCHS</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2008118255</meta>
 		<dc:subject id="subject-3">London (England) -- History -- 18th century -- Fiction</dc:subject>
-		<meta property="authority" refines="#subject-3">LCHS</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2008107114</meta>
 		<dc:subject id="subject-4">Apprentices -- Fiction</dc:subject>
-		<meta property="authority" refines="#subject-4">LCHS</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh2008117601</meta>
 		<dc:subject id="subject-5">Political fiction</dc:subject>
-		<meta property="authority" refines="#subject-5">LCHS</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh85104355</meta>
 		<dc:subject id="subject-6">Mystery fiction</dc:subject>
-		<meta property="authority" refines="#subject-6">LCHS</meta>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">Unknown</meta>
 		<dc:subject id="subject-7">Locksmiths -- Fiction</dc:subject>
-		<meta property="authority" refines="#subject-7">LCHS</meta>
+		<meta property="authority" refines="#subject-7">LCSH</meta>
 		<meta property="term" refines="#subject-7">sh2010100119</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A simple-minded young man and his pet raven are swept up in the anti-Catholic Gordon Riots of 1780.</dc:description>
